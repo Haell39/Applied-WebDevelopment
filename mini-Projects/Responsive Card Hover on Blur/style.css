@@ -1,4 +1,4 @@
-/* ==========================Font========================== */
+
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"); /* remember to test more google apis */
 
 @font-face {
@@ -150,7 +150,7 @@ body {
   }
 }
 
-/* =======================Responsive Breakpoint ========================== */
+/* Atenção abaixo */
 
 @media only screen and (max-width: 992px) {
   /* Add responsive styles for max-width 992px */
